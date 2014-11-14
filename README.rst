@@ -41,3 +41,9 @@ For a more detailed documentation follow this url::
 
   http://code.google.com/appengine/docs/python/tools/uploadinganapp.html
 
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/webmaven/publicservice/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
